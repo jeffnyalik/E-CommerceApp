@@ -23,3 +23,22 @@ export const sliderItems = [
     },
    
 ];
+
+
+export const categories =  [
+    {
+        id: 1,
+        img: 'https://www.pngitem.com/pimgs/m/617-6170636_hoodie-transparent-blue-blue-jacket-with-hood-hd.png',
+        title: 'SHIRT STYLE'
+    },
+    {
+        id: 2,
+        img: 'https://purepng.com/public/uploads/large/purepng.com-nike-lazer-bagbagbackpacksnike-lazer-bagtourist-bags-1421526271674pxn0o.png',
+        title: 'LONGWEER LOVE'
+    },
+    {
+        id: 3,
+        img: 'https://www.pngitem.com/pimgs/m/617-6170636_hoodie-transparent-blue-blue-jacket-with-hood-hd.png',
+        title: 'LIGHT JACKETS'
+    }
+];
