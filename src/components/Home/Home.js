@@ -5,6 +5,7 @@ import Slider from "../Slider/Slider";
 import Categories from "../Category/Category";
 import Products from "../Product/Products";
 import NewsLetter from "../Letter/NewsLetter";
+import Footer from "../Footer/Footer";
 
 
 
@@ -17,7 +18,7 @@ const Home = () =>{
             <Categories/>
             <Products/>
             <NewsLetter/>
-        
+            <Footer/>
         </div>
         
     )
