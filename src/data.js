@@ -42,3 +42,38 @@ export const categories =  [
         title: 'LIGHT JACKETS'
     }
 ];
+
+export const products =  [
+    {
+        id: 1,
+        img: 'https://www.pngall.com/wp-content/uploads/4/Black-Leather-Jacket-PNG-Image.png',
+    },
+    {
+        id: 2,
+        img: 'https://www.pngall.com/wp-content/uploads/4/Black-Leather-Jacket-PNG-Image.png',
+    },
+    {
+        id: 3,
+        img: 'https://toppng.com/uploads/preview/stealth-ghost-rider-jacket-for-men-autum-11569042150nwowbqwxu7.png',
+    },
+    {
+        id: 4,
+        img: 'https://purepng.com/public/uploads/large/purepng.com-women-dressfashion-women-dress-cloth-apparelclothingwomen-dress-631522326940onrfa.png',
+    },
+    {
+        id: 5,
+        img: 'https://toppng.com/uploads/preview/stealth-ghost-rider-jacket-for-men-autum-11569042150nwowbqwxu7.png',
+    },
+    {
+        id: 6,
+        img: 'https://www.pngall.com/wp-content/uploads/4/Black-Leather-Jacket-PNG-Image.png',
+    },
+    {
+        id: 7,
+        img: 'https://i.pinimg.com/736x/b1/65/7f/b1657f680d185b50193166dfbdf9f424.jpg',
+    },
+    {
+        id: 8,
+        img: 'https://www.pngitem.com/pimgs/m/394-3943661_best-gym-bags-for-men-hd-png-download.png',
+    }
+];
